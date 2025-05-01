@@ -4,7 +4,7 @@ A variation of my previous project, this time refactored to be easier to add to 
 ## Live Demo
 [Streamlit App Link](https://employee-churn-prediction-complete-app-integration-l87w5zem35k.streamlit.app/)
 
-**Important to note.** 
+**Important to note.** <br>
 When runing the prediction directly it is 0.1% more accurate than running it as a deployable microservice. As is run from the link above. <br>
 The way that this repo ([LINK(https://github.com/MortalWombat-repo/Employee-churn-prediction)]) was organized was to provide a easy to deploy service <br>
 that utilizes best practices at the cost of 0.1% accuracy (negligible in logistic regression tasks), which was later refactored so users could run the project 
